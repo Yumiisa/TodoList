@@ -10,6 +10,12 @@ body{
     font-family: 'poppins',sans-serif;
     min-height: 100vh;
 }
+p{
+    margin: 0 30%;
+    font-size: 30px;
+    width: 100%;
+    text-transform: capitalize;
+}
 header{
     font-size: 1.3rem;
 }
